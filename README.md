@@ -2,6 +2,8 @@
 
 A simple aim training game built with Pygame.
 
+![Screenshot](https://github.com/user-attachments/assets/31cb2e10-7c9e-4070-843a-7b9cd541ee77)
+
 ## Features
 - Two difficulty modes: Easy and Hard
 - Two game modes: Time (60 seconds) and Lives (3 lives)
