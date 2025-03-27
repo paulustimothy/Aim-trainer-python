@@ -17,7 +17,7 @@ A simple aim training game built with Pygame.
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/aim-trainer.git
+git clone https://github.com/paulustimothy/aim-trainer.git
 ```
 2. Install Pygame:
 ```bash
